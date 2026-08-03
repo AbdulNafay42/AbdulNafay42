@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulnafay42&label=Profile%20views&color=0e75b6&style=flat" alt="abdulnafay42" /> </p>
 
-- 💬 Ask me about **HTML , CSS , JavaScript, ReactJS, NextJS, NodeJS, Wordpress ELementor**
+- 💬 Ask me about **HTML , CSS , JavaScript, ReactJS, NextJS, NodeJS, Wordpress Elementor**
 
 - 📫 How to reach me **abdulnafay2005@gmail.com**
 
