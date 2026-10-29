@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
 # Hi 👋, I'm Abdul Nafay
 
-### Associate Frontend Developer | React.js • Next.js • UI Engineering
+### Software Engineer | React.js • Next.js • TypeScript
 
-Building responsive web applications, pixel-perfect interfaces, and interactive user experiences.
+I build modern web applications with pixel-perfect precision — from concept to deployment.
 
 <img src="https://komarev.com/ghpvc/?username=AbdulNafay42&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/AbdulNafay42) · [Email](mailto:abdulnafay2005@gmail.com)
+[Portfolio](https://abdulnafay.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abdul-nafay-2b1572241/) · [Email](mailto:abdulnafay2005@gmail.com)
 
 </div>
 
@@ -16,88 +16,90 @@ Building responsive web applications, pixel-perfect interfaces, and interactive 
 
 ## 👨‍💻 About Me
 
-I'm a Frontend Developer at **Technyx Systems** with **2+ years of experience** building modern web interfaces and web applications.
+I'm a Software Engineer at **Technyx Systems** with **2+ years of experience** building responsive, high-performance web applications.
 
-I enjoy turning designs into responsive, pixel-perfect interfaces, building reusable components, integrating APIs, and improving existing applications.
+I specialize in React, Next.js and TypeScript — turning Figma designs into pixel-perfect, accessible interfaces, integrating REST APIs, and shipping production features with cross-functional teams.
 
-- 💼 Working as an Associate Frontend Developer at Technyx Systems.
-- 🎨 Focused on responsive UI development and translating Figma designs into code.
-- ⚛️ Working with React.js, Next.js, JavaScript, and TypeScript.
-- 🔌 Experienced in API integration, reusable components, and CMS-driven websites.
-- 🚀 Building personal projects to strengthen my full-stack development skills.
+- 💼 Software Engineer at Technyx Systems.
+- ⚛️ Building with React.js, Next.js, React Native, TypeScript and Tailwind CSS.
+- 🗄️ Full-stack work with NestJS, Prisma, PostgreSQL and Payload CMS.
+- 🧪 Writing tests with Vitest, React Testing Library and Playwright, shipped through CI/CD.
+- 🚀 Building my own products — like [Hisabzo](https://www.hisabzo.online).
 - 🎓 Pursuing a BS in Computer Science at Iqra University.
 
-💬 **Ask me about:** HTML, CSS, JavaScript, React.js, Next.js, responsive design, and frontend development.
+💬 **Ask me about:** React.js, Next.js, TypeScript, responsive UI, Payload CMS and building web apps end to end.
 
-📫 **Email:** [abdulnafay2005@gmail.com](mailto:abdulnafay2005@gmail.com)
+📫 **Open to:** full-time roles and freelance projects — [abdulnafay2005@gmail.com](mailto:abdulnafay2005@gmail.com)
 
 ---
 
 ## 🛠️ Languages and Tools
 
-### Frontend Development
+### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,mui" alt="Frontend technologies" />
 </p>
 
-### UI Libraries and Development Tools
+### Backend and Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mui,figma,git,github,vscode" alt="UI libraries and development tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,firebase" alt="Backend and database technologies" />
 </p>
 
-### Backend and Database
+### Testing, Tools and Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,payload" alt="Backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=vitest,git,github,githubactions,vite,vercel,netlify,figma,vscode" alt="Testing, tools and deployment" />
 </p>
 
-### CMS and Other Technologies
-
-- WordPress and Elementor — working knowledge
-- REST API integration
-- Git and GitHub
-- Responsive web design
-- SCSS and component-based styling
+**Also:** Payload CMS · Playwright · React Testing Library · Zustand · React Hook Form · Zod · Framer Motion · GSAP · WordPress · Elementor · REST APIs · PWA · Agile / Scrum
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Hisabzo — Personal Lending & Borrowing Ledger
+### 💰 Hisabzo — Loan & Udhaar Tracker
 
-A personal finance ledger I built to track money lent to others, money borrowed, repayments, and outstanding balances.
+A free web app for tracking personal loans and repayments in PKR, with one ledger per person and a live remaining balance.
 
-- Track transactions for multiple people.
-- View transaction histories and pending balances.
-- Use a PostgreSQL database with Prisma ORM.
+- Track money lent and borrowed across multiple people.
+- Searchable PDF statements and a no-signup sample-data preview.
+- Installable PWA with private accounts and secure sign-in.
 
-**Tech Stack:** Next.js, PostgreSQL, Neon, Prisma
+**Tech Stack:** Next.js, PostgreSQL, Neon, Prisma, PWA
 
-🔗 [Live Demo](https://hisabzo-demo.vercel.app/)
+🔗 [Live](https://www.hisabzo.online) · [Demo](https://hisabzo-demo.vercel.app/)
 
 ### 🛍️ SellDesk — WhatsApp Commerce SaaS
 
-A multi-tenant commerce application concept designed around the workflows of Pakistani fashion sellers.
+A multi-tenant commerce application designed around the workflows of Pakistani fashion sellers.
 
 - Separate brand and super-admin dashboards.
 - Backend APIs and database-driven workflows.
-- Exploring WhatsApp commerce integrations and end-to-end testing.
+- End-to-end tests with Playwright and a GitHub Actions CI pipeline.
 
 **Tech Stack:** Next.js, NestJS, PostgreSQL, Prisma, Playwright
 
 🔗 [GitHub Repository](https://github.com/AbdulNafay42/SellDesk)
 
+### 🌐 Portfolio
+
+My personal site, built with Next.js, TypeScript, Tailwind CSS, Motion and Payload CMS on PostgreSQL.
+
+🔗 [abdulnafay.vercel.app](https://abdulnafay.vercel.app)
+
 ---
 
 ## 💼 Professional Experience
 
-**Associate Frontend Developer — Technyx Systems**
+**Software Engineer — Technyx Systems** · 06/2024 – Present
 
-Working on production web applications, reusable UI components, CMS-driven websites, API integrations, and frontend maintenance.
+Building production web applications with React.js, Next.js and TypeScript — reusable UI components, CMS-driven websites, API integrations, performance fixes and pixel-perfect Figma implementation.
 
-My experience includes working with React.js and Next.js, implementing responsive interfaces, troubleshooting UI issues, and collaborating with backend workflows.
+**Junior Front-End Developer — Bhabha Technologies** · 09/2023 – 04/2024
+
+Built responsive business websites and landing pages with HTML, CSS, JavaScript and Bootstrap.
 
 ---
 
@@ -110,12 +112,11 @@ My experience includes working with React.js and Next.js, implementing responsiv
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Improving JavaScript and TypeScript fundamentals.
-- Exploring backend architecture and database design.
-- Learning testing, CI/CD, and deployment workflows.
-- Building better interactive web experiences and animations.
+- Backend architecture and database design.
+- Deeper automated testing and CI/CD workflows.
+- Interactive web experiences and animation.
 
 ---
 
